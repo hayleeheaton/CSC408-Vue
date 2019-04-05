@@ -1,0 +1,26 @@
+#header{
+    padding: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+    color: #ffd521;
+    font-family: 'Avantgarde', TeX Gyre Adventor, URW Gothic L, sans-serif;
+    background-color: #aad2c9;
+}
+
+#footer {
+    padding: 10px;
+    background-color: #aad2c9;
+    color: #ffd521;
+}
+
+.btn {
+    margin-left: 3px;
+    margin-right: 3px;
+    color: #ffd521;
+
+}
+
+div.btn a {
+    color: #ffd521;
+}
